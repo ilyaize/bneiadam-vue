@@ -139,6 +139,16 @@
         </div>
       </dl>
     </div>
+    <div class="mx-auto max-w-2xl py-8 sm:py-12 lg:py-14">
+      <div class="text-center">
+        <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">In summary,</p>
+        <p class="mt-6 text-lg leading-8 text-gray-600">
+          by combining the strengths of osteopathy and psychology, we offer a more holistic and
+          effective approach to wellness. We address the root causes of your symptoms, improve your
+          physical and emotional well-being, and empower you to live a healthier, happier life.
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
