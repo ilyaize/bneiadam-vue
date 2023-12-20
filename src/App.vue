@@ -27,4 +27,8 @@ import TheFooter from './components/TheFooter.vue'
   border-bottom: 0;
   border-left: 0.3em solid transparent;
 }
+
+* {
+  transition: all 1s;
+}
 </style>
