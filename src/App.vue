@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-purple-500">
+  <div class="bg-white">
     <main>
       <TheHeader></TheHeader>
       <TheContent></TheContent>
