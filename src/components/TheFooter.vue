@@ -1,13 +1,10 @@
 <template>
-  <footer class="mt-32 bg-gray-900 sm:mt-56" aria-labelledby="footer-heading">
+  <footer class="mt-32 bg-yellow-950 sm:mt-56" aria-labelledby="footer-heading">
     <h2 id="footer-heading" class="sr-only">Footer</h2>
     <div class="mx-auto max-w-7xl px-6 py-16 sm:py-24 lg:px-8 lg:py-32">
       <div class="xl:grid xl:grid-cols-3 xl:gap-8">
-        <img
-          class="h-7"
-          src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-          alt="Company name"
-        />
+        <span class="sr-only">Bnei Adam</span>
+        <img class="h-16 w-auto" src="../assets/logo.svg" alt="" />
         <div class="mt-16 grid grid-cols-2 gap-8 xl:col-span-2 xl:mt-0">
           <div class="md:grid md:grid-cols-2 md:gap-8">
             <div>
@@ -63,27 +60,13 @@
 const footerNavigation = {
   solutions: [
     { name: 'Marketing', href: '#' },
-    { name: 'Analytics', href: '#' },
-    { name: 'Commerce', href: '#' },
     { name: 'Insights', href: '#' }
   ],
-  support: [
-    { name: 'Pricing', href: '#' },
-    { name: 'Documentation', href: '#' },
-    { name: 'Guides', href: '#' },
-    { name: 'API Status', href: '#' }
-  ],
+  support: [{ name: 'Pricing', href: '#' }],
   company: [
     { name: 'About', href: '#' },
-    { name: 'Blog', href: '#' },
-    { name: 'Jobs', href: '#' },
-    { name: 'Press', href: '#' },
-    { name: 'Partners', href: '#' }
+    { name: 'Blog', href: '#' }
   ],
-  legal: [
-    { name: 'Claim', href: '#' },
-    { name: 'Privacy', href: '#' },
-    { name: 'Terms', href: '#' }
-  ]
+  legal: [{ name: 'Claim', href: '#' }]
 }
 </script>

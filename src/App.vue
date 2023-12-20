@@ -3,8 +3,6 @@
     <main>
       <TheHeader></TheHeader>
       <TheContent></TheContent>
-
-      <div class="bg-red-500" id="about">hello</div>
       <TheFooter></TheFooter>
     </main>
   </div>
