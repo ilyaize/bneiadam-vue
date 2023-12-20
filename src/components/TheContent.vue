@@ -29,6 +29,15 @@
               class="rounded-full bg-yellow-500 px-7 py-5 text-sm font-semibold text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400"
               >Call Now (+972 54-461-9687)</a
             >
+            <a class="" href="#"
+              ><i class="fa-brands fa-whatsapp fa-2xl" style="color: white"></i
+            ></a>
+            <a class="" href="#"
+              ><i class="fa-brands fa-facebook fa-2xl" style="color: white"></i
+            ></a>
+            <a class="" href="#"
+              ><i class="fa-brands fa-x-twitter fa-2xl" style="color: white"></i
+            ></a>
           </div>
         </div>
       </div>
@@ -157,7 +166,7 @@ const features = [
 ]
 </script>
 
-<style>
+<style scoped>
 .video-image {
   transition: filter 0.3s ease;
 }
