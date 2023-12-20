@@ -9,7 +9,9 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:py-28">
         <div class="text-center">
-          <img class="rounded-lg" src="../assets/image.jpg" alt="" />
+          <a href="https://youtu.be/dQw4w9WgXcQ">
+            <img class="rounded-lg video-image" src="../assets/image.jpg" alt="" />
+          </a>
           <h2 class="mt-6 text-3xl pb-6 leading-8 text-white">
             Welcome to <span class="font-bold text-yellow-500">Bnei Adam</span>
           </h2>
@@ -154,3 +156,13 @@ const features = [
   }
 ]
 </script>
+
+<style>
+.video-image {
+  transition: filter 0.3s ease;
+}
+
+.video-image:hover {
+  filter: brightness(1.2);
+}
+</style>
