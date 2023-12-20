@@ -79,67 +79,70 @@
       <dl
         class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-8 lg:gap-y-16"
       >
-        <div v-for="feature in features" :key="feature.name" class="relative pl-9">
+        <div class="relative">
           <dt class="inline font-semibold text-gray-900">
-            <component
-              :is="feature.icon"
-              class="absolute left-1 top-1 h-5 w-5 text-yellow-600"
-              aria-hidden="true"
-            />
-            {{ feature.name }}
+            Psychological factors can manifest in physical ways:
           </dt>
-          {{ ' ' }}
-          <dd class="inline">{{ feature.description }}</dd>
+          <dd class="inline">
+            Stress, anxiety, and trauma can create tension in muscles, affect posture, and
+            contribute to pain. For example, chronic stress can manifest as headaches, back pain, or
+            digestive issues.
+          </dd>
+        </div>
+        <div class="relative">
+          <dt class="inline font-semibold text-gray-900">
+            Physical discomfort can impact mental well-being:
+          </dt>
+          <dd class="inline">
+            Chronic pain, discomfort, and limitations in mobility can lead to depression, anxiety,
+            and decreased self-esteem. The cycle can go both ways, making it crucial to address both
+            aspects.
+          </dd>
+        </div>
+        <div class="relative">
+          <dt class="inline font-semibold text-gray-900">
+            Osteopathic treatment can promote emotional well-being:
+          </dt>
+          <dd class="inline">
+            By releasing physical tension, improving circulation, and restoring balance to the
+            musculoskeletal system, osteopathy can create a sense of calm and relaxation, impacting
+            the nervous system and reducing stress.
+          </dd>
+        </div>
+        <div class="relative">
+          <dt class="inline font-semibold text-gray-900">
+            Psychological tools can enhance osteopathic treatment:
+          </dt>
+          <dd class="inline">
+            Techniques like mindfulness, stress management, and cognitive-behavioral therapy can
+            help patients become more aware of their body's sensations and work with the osteopath
+            to optimize treatment outcomes.
+          </dd>
+        </div>
+        <div class="relative">
+          <dt class="inline font-semibold text-gray-900">
+            Your osteopath and psychologist work together:
+          </dt>
+          <dd class="inline">
+            They share information, create a personalized treatment plan, and adjust it based on
+            your progress.
+          </dd>
+        </div>
+        <div class="relative">
+          <dt class="inline font-semibold text-gray-900">
+            You, the patient, are an active participant:
+          </dt>
+          <dd class="inline">
+            You'll learn about the mind-body connection and be equipped with tools to manage your
+            physical and emotional health.
+          </dd>
         </div>
       </dl>
     </div>
   </div>
 </template>
 
-<script setup>
-import {
-  ArrowPathIcon,
-  CloudArrowUpIcon,
-  Cog6ToothIcon,
-  FingerPrintIcon,
-  LockClosedIcon,
-  ServerIcon
-} from '@heroicons/vue/20/solid'
-const features = [
-  {
-    name: 'Push to deploy.',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
-    icon: CloudArrowUpIcon
-  },
-  {
-    name: 'SSL certificates.',
-    description:
-      'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
-    icon: LockClosedIcon
-  },
-  {
-    name: 'Simple queues.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus.',
-    icon: ArrowPathIcon
-  },
-  {
-    name: 'Advanced security.',
-    description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit aute id magna.',
-    icon: FingerPrintIcon
-  },
-  {
-    name: 'Powerful API.',
-    description:
-      'Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo.',
-    icon: Cog6ToothIcon
-  },
-  {
-    name: 'Database backups.',
-    description: 'Ac tincidunt sapien vehicula erat auctor pellentesque rhoncus. ',
-    icon: ServerIcon
-  }
-]
-</script>
+<script setup></script>
 
 <style scoped>
 .video-image {
