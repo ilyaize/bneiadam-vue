@@ -79,9 +79,9 @@
       <dl
         class="mx-auto grid max-w-2xl grid-cols-1 gap-x-6 gap-y-10 text-base leading-7 text-gray-600 sm:grid-cols-2 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-x-8 lg:gap-y-16"
       >
-        <div class="relative">
+        <div class="">
           <dt class="inline font-semibold text-gray-900">
-            Psychological factors can manifest in physical ways:
+            Psychological factors manifest in physical ways:
           </dt>
           <dd class="inline">
             Stress, anxiety, and trauma can create tension in muscles, affect posture, and
@@ -89,9 +89,9 @@
             digestive issues.
           </dd>
         </div>
-        <div class="relative">
+        <div class="">
           <dt class="inline font-semibold text-gray-900">
-            Physical discomfort can impact mental well-being:
+            Physical discomfort impacts mental well-being:
           </dt>
           <dd class="inline">
             Chronic pain, discomfort, and limitations in mobility can lead to depression, anxiety,
@@ -99,9 +99,9 @@
             aspects.
           </dd>
         </div>
-        <div class="relative">
+        <div class="">
           <dt class="inline font-semibold text-gray-900">
-            Osteopathic treatment can promote emotional well-being:
+            Osteopathic treatment promotes emotional well-being:
           </dt>
           <dd class="inline">
             By releasing physical tension, improving circulation, and restoring balance to the
@@ -109,7 +109,7 @@
             the nervous system and reducing stress.
           </dd>
         </div>
-        <div class="relative">
+        <div class="">
           <dt class="inline font-semibold text-gray-900">
             Psychological tools can enhance osteopathic treatment:
           </dt>
@@ -119,7 +119,7 @@
             to optimize treatment outcomes.
           </dd>
         </div>
-        <div class="relative">
+        <div class="">
           <dt class="inline font-semibold text-gray-900">
             Your osteopath and psychologist work together:
           </dt>
@@ -128,7 +128,7 @@
             your progress.
           </dd>
         </div>
-        <div class="relative">
+        <div class="">
           <dt class="inline font-semibold text-gray-900">
             You, the patient, are an active participant:
           </dt>
