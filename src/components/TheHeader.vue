@@ -76,7 +76,7 @@
         </Dropdown>
         <a
           href="#"
-          class="rounded-md bg-yellow-500 px-7 py-6 text-sm font-semibold text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400"
+          class="rounded-full bg-yellow-500 px-7 py-6 text-sm font-semibold text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400"
           >Call Now</a
         >
       </div>

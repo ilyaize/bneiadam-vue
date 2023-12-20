@@ -7,10 +7,11 @@
       class="absolute inset-0 -z-10 h-full w-full object-cover"
     />
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
-      <div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+      <div class="mx-auto max-w-2xl py-16 sm:py-24 lg:py-28">
         <div class="text-center">
-          <h2 class="mt-6 text-3xl pb-6 font-bold leading-8 text-white">
-            Welcome to <span class="text-yellow-500">Bnei Adam</span>
+          <img class="rounded-lg" src="../assets/image.jpg" alt="" />
+          <h2 class="mt-6 text-3xl pb-6 leading-8 text-white">
+            Welcome to <span class="font-bold text-yellow-500">Bnei Adam</span>
           </h2>
           <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl">
             Holistic Medicine for <span class="text-yellow-500">Body and Mind</span>
@@ -23,7 +24,7 @@
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a
               href="#"
-              class="rounded-md bg-yellow-500 px-7 py-5 text-sm font-semibold text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400"
+              class="rounded-full bg-yellow-500 px-7 py-5 text-sm font-semibold text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400"
               >Call Now</a
             >
           </div>
