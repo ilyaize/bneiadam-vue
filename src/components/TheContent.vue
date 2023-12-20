@@ -25,9 +25,9 @@
           </p>
           <div class="mt-10 flex items-center justify-center gap-x-6">
             <a
-              href="tel:+972544619687"
+              href="tel:+972555694652"
               class="rounded-full bg-yellow-500 px-7 py-5 text-sm font-semibold text-white shadow-sm hover:bg-yellow-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-yellow-400"
-              >Call Now (+972 54-461-9687)</a
+              >Call Now (+972 55-569-4652)</a
             >
             <a class="" href="#"
               ><i class="fa-brands fa-whatsapp fa-2xl" style="color: white"></i
