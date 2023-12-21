@@ -9,11 +9,11 @@
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-2xl py-8 sm:py-12 lg:py-14">
         <div class="text-center">
-          <h2 class="mt-6 text-3xl pb-12 leading-8 text-white">
+          <!-- <h2 class="mt-6 text-3xl pb-12 leading-8 text-white">
             Welcome to <span class="font-bold text-yellow-500">Bnei Adam</span>
-          </h2>
+          </h2> -->
           <a href="https://youtu.be/dQw4w9WgXcQ">
-            <img class="rounded-lg video-image" src="../assets/image.jpg" alt="" />
+            <img class="mt-6 rounded-lg video-image" src="../assets/image.jpg" alt="" />
           </a>
           <h1 class="text-4xl pt-8 font-bold tracking-tight text-white sm:text-6xl">
             Holistic Medicine for <span class="text-yellow-500">Body and Mind</span>
@@ -34,6 +34,9 @@
             ></a>
             <a class="" href="#"
               ><i class="fa-brands fa-facebook fa-2xl" style="color: white"></i
+            ></a>
+            <a class="" href="#"
+              ><i class="fa-brands fa-youtube fa-2xl" style="color: white"></i
             ></a>
             <a class="" href="#"
               ><i class="fa-brands fa-x-twitter fa-2xl" style="color: white"></i
