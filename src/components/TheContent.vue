@@ -51,9 +51,9 @@
   <div class="mt-16 sm:mt-28">
     <div class="mx-auto max-w-7xl px-6 lg:px-8">
       <div class="mx-auto max-w-3xl sm:text-center">
-        <h2 class="text-base font-semibold leading-7 text-yellow-600">
+        <!-- <h2 class="text-base font-semibold leading-7 text-yellow-600">
           Lorem ipsum dolor sit amet.
-        </h2>
+        </h2> -->
         <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           Dive deeper into our unique approach:
         </p>
