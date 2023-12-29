@@ -38,7 +38,7 @@
             <img class="mt-6 rounded-lg video-image" src="../assets/image.jpg" alt="" />
           </a>
           <h1 class="text-4xl pt-8 font-bold tracking-tight text-white sm:text-6xl">
-            Holistic Medicine for <span class="text-yellow-500">Body and Mind!</span>
+            Holistic Medicine for <span class="text-yellow-500">Body and Mind</span>
           </h1>
           <p class="mt-6 text-lg leading-8 text-gray-300">
             Bnei Adam offers a unique approach to wellness, integrating the power of psychology and
